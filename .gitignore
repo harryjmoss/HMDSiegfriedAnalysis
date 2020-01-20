@@ -2,3 +2,4 @@
 *.xlsx
 *.csv
 nbenv/*
+win10env/*
